@@ -1,6 +1,7 @@
 cfasmsblois
 ===========
-
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/13c863eb-7ef4-4e30-b3d9-7ee82cf62dd9/big.png)](https://insight.sensiolabs.com/projects/13c863eb-7ef4-4e30-b3d9-7ee82cf62dd9)
+============
 A Symfony project created on May 15, 2018, 5:55 pm.
 
 *Description*
